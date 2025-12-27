@@ -1,2 +1,2 @@
-# data-analyst-foundations
+# Data-Analyst-Foundations
 Learning SQL and Python for data analysis
